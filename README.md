@@ -1,3 +1,12 @@
+源自：https://github.com/GleasonBian/CornerstoneVueWADO
+原工程无法正常显示dicom图片，因此做了以下修改：
+1、添加自己的dicom文件于testImages中；
+2、修改Helloworld.vue里面一个小错误；
+3、添加static/Dicom.json；
+4、把static/dist里面的cornerstoneWADOImageLoade等文件更新为2.2.4版本。
+
+以下为原工程内容：
+
 # CornerstoneVueWADO
 
 > 一个基于 Cornerstone 解析并显示 Dicom 图像的 Vue 项目
